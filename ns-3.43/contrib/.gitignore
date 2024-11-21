@@ -3,4 +3,5 @@
 
 # Include specific files that should be tracked by Git
 !.gitignore
-!iot-camera/
+!iot-camera
+!iot-camera/**
